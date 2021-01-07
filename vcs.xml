@@ -1,0 +1,31 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://202.115.44.159:81" />
+          <option name="userName" value="yuanjiajun" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.0.0.100:81" />
+          <option name="userName" value="yuanjiajun" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://202.115.44.159:81/jinhongjian/itispect-parent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="F:\workspace\CAEP" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>

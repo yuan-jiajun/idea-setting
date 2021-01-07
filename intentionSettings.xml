@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Bind parameters to fields" />
+    <ignoreAction name="Java/Modifiers/Change access modifier" />
+  </component>
+</application>
