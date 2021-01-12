@@ -72,6 +72,7 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
     </driver>
