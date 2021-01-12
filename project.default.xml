@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="F:\Maven_Home" />
+            <option name="mavenHome" value="C:\Users\yuanjiajun\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
+            <option name="userSettingsFile" value="F:\Maven_Home\aliyun-settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="compactDirectories" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showMembers" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

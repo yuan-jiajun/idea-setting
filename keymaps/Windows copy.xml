@@ -1,0 +1,10 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <mouse-shortcut keystroke="control button4" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <mouse-shortcut keystroke="control button5" />
+  </action>
+</keymap>
