@@ -26,6 +26,10 @@
           <option name="url" value="http://10.0.24.1:81/yuanjiajun/itispect-bigdata.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.0.24.1:81/yuanjiajun/itispect-parent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\workspace\sword-graduate" />
